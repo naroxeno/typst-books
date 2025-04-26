@@ -4,7 +4,9 @@
 
 2. 本仓库所编写的typst模板（/templates/*）使用MIT协议开源。
 
-
+3. 本仓库中部分书籍使用了ilm项目的代码（后面会改）：
+git仓库：https://github.com/talal/ilm/
+package：https://typst.app/universe/package/ilm/
 
 MIT License
 
